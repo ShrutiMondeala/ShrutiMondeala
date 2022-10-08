@@ -28,7 +28,7 @@ My Name is Shruti ;
  </div>
  
 
- <h2>Github Stats <img src="https://aoenexus.com/assets/loader.gif" width= 20rem ></h2>
+ <h2>Github Stats</h2>
  
  | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=shrutimondeala&show_icons=true&theme=dark) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrutimondeala&theme=dark) |
 | --- | --- |
