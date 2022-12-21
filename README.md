@@ -1,4 +1,4 @@
-# BonJour Fellas<img src="https://img.icons8.com/color/48/000000/partly-cloudy-day--v2.gif" align = "center" height = "8%" width ="8%"/>
+# BonJour Fellas<img src="https://img.icons8.com/color/48/000000/partly-cloudy-day--v2.gif" align = "center" height = "2%" width ="2%"/>
 
 
 My Name is Shruti ; 
@@ -23,7 +23,7 @@ My Name is Shruti ;
   <img  src ='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
   <img  src ='https://img.shields.io/badge/Mongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
   <img  src ='https://img.shields.io/badge/Firebase-ED8B00?style=for-the-badge&logo=firebase&logoColor=white'>
-  
+  <img  src ='https://img.shields.io/badge/angular-ED8B00?style=for-the-badge&logo=firebase&logoColor=white'>
   
  </div>
  
