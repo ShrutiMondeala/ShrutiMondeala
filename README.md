@@ -1,4 +1,4 @@
-# BonJour Fellas<img src="https://img.icons8.com/color/48/000000/partly-cloudy-day--v2.gif" align = "center" height = "2%" width ="2%"/>
+# BonJour Fellas<img src="https://img.icons8.com/color/48/000000/partly-cloudy-day--v2.gif" align = "center" height = "5%" width ="5%"/>
 
 
 My Name is Shruti ; 
